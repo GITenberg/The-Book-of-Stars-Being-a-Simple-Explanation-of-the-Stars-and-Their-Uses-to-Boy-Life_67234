@@ -1,0 +1,41 @@
+_repo: The-Book-of-Stars-Being-a-Simple-Explanation-of-the-Stars-and-Their-Uses-to-Boy-Life_67234
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Collins, A. Frederick (Archie Frederick)
+    alias: Collins, Archie Frederick
+    birthdate: 1869
+    deathdate: 1952
+    gutenberg_agent_id: '2266'
+    url: http://www.gutenberg.org/2009/agents/2266
+    wikipedia: https://en.wikipedia.org/wiki/Archie_Frederick_Collins
+description: ''
+gutenberg_issued: '2022-01-23'
+identifiers:
+  gutenberg: '67234'
+  lccn: '20009406'
+language: en
+pgterms:marc904: https://archive.org/details/bookofstarsbeing00colluoft/page/ii/mode/2up
+pgterms:marc905: 20201109051646collins
+pgterms:marc906: '1915'
+pgterms:marc907: US
+production_note: Tim Lindell and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/Canadian
+  Libraries)
+publication_note: United States :D. Appleton & Company,1915,copyright 1920.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QB'
+- !lcsh 'Stars -- Juvenile literature'
+- !lcsh 'Astronomy -- Juvenile literature'
+- GITenberg
+tableOfContents: How to find the North Star -- How to know the stars -- The Sun, the
+  brightest of all stars -- The planets, the Sun's kiddies -- Mother Earth, old Adam's
+  planet -- The Moon, the Earth's daughter -- Other things in the sky -- Seeing the
+  stars -- The spyglass or telescope -- The time o' day -- The stars of the zodiac
+  -- Valuable information.
+title: 'The Book of Stars: Being a Simple Explanation of the Stars and Their Uses
+  to Boy Life'
+url: http://www.gutenberg.org/ebooks/67234
