@@ -1,5 +1,8 @@
 _repo: The-Book-of-Stars-Being-a-Simple-Explanation-of-the-Stars-and-Their-Uses-to-Boy-Life_67234
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67234-h/images/cover.jpg
 creator:
   author:
     agent_name: Collins, A. Frederick (Archie Frederick)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2266
     wikipedia: https://en.wikipedia.org/wiki/Archie_Frederick_Collins
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67234#The-Book-of-Stars-Being-a-Simple-Explanation-of-the-Stars-and-Their-Uses-to-Boy-Life
 gutenberg_issued: '2022-01-23'
 identifiers:
   gutenberg: '67234'
